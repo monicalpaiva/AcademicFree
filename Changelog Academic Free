@@ -1,0 +1,13 @@
+Ver 1.2 2019/03/21
+
+Add changelog as file to the theme folder
+Fix the registration form on the frontend thank for Mr. Bolaji Tenibiaje for OJS 3.1.2 version
+Remove the sidebar on the static page
+
+
+ver 1.1 2019/03/17
+
+Remove the sidebar on the article detail
+Styling the typography on the article detail 
+Add new template file -> article.tpl
+Add style to the panel on the article detail

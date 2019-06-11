@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * locale/da_DK/locale.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings.
+  -->
+
+<locale name="da_DK" full_name="Dansk">
+	<message key="plugins.themes.academic_free.name">Academic Free tema ver. 1.1</message>
+	<message key="plugins.themes.academic_free.description">Et Academic Free Premium tema til læser-front-end</message>
+	<message key="plugins.themes.academic_free.accessible_menu.label">Hurtig adgang til sideindhold</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_navigation">Hovednavigation</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_content">Hovedindhold</message>
+	<message key="plugins.themes.academic_free.accessible_menu.sidebar">Sidemenu</message>
+	<message key="plugins.themes.academic_free.article.sidebar">Artikel-sidemenu</message>
+	<message key="plugins.themes.academic_free.article.main">Hoved-artikelindhold</message>
+	<message key="plugins.themes.academic_free.article.details">Artikel-detaljer</message>
+	<message key="plugins.themes.academic_free.options.academicFree.label">Bootstrap-tema</message>
+	<message key="plugins.themes.academic_free.options.academicFree.description">Vælg en af disse open source Bootstrap-temaer, som ændrer farver og typografi på dit website.</message>
+	<message key="plugins.themes.academic_free.options.academicFree.bootstrap3">Standard Bootstrap-tema</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cerulean">Cerulean</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cleanblog">Clean Blog</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cosmo">Cosmo</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cyborg">Cyborg</message>
+	<message key="plugins.themes.academic_free.options.academicFree.darkly">Darkly</message>
+	<message key="plugins.themes.academic_free.options.academicFree.flatly">Flatly</message>
+	<message key="plugins.themes.academic_free.options.academicFree.journal">Journal</message>
+	<message key="plugins.themes.academic_free.options.academicFree.lumen">Lumen</message>
+	<message key="plugins.themes.academic_free.options.academicFree.paper">Paper</message>
+	<message key="plugins.themes.academic_free.options.academicFree.readable">Readable</message>
+	<message key="plugins.themes.academic_free.options.academicFree.sandstone">Sandstone</message>
+	<message key="plugins.themes.academic_free.options.academicFree.simplex">Simplex</message>
+	<message key="plugins.themes.academic_free.options.academicFree.slate">Slate</message>
+	<message key="plugins.themes.academic_free.options.academicFree.spacelab">Spacelab</message>
+	<message key="plugins.themes.academic_free.options.academicFree.superhero">Superhero</message>
+	<message key="plugins.themes.academic_free.options.academicFree.united">United</message>
+	<message key="plugins.themes.academic_free.options.academicFree.yeti">Yeti</message>
+
+		<message key="plugins.themes.academic_free.contact_us">Contact Us</message>
+	<message key="plugins.themes.academic_free.address">Address</message>
+	<message key="lang.information">Information</message>
+
+			<message key="plugins.themes.academic_free.headerTheme.name">Site Header Theme</message>
+	<message key="plugins.themes.academic_free.headerTheme.description">Site Header Design Option</message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Red Modern <span style="color: red">(Premium Theme Only)</span></message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Education-Teaching (Premium Theme Only)</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Multiple Essentric Dot (Premium Theme Only)</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Diamond Shine (Premium Theme Only)</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Blue Sky</message>
+</locale>

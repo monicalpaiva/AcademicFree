@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/themes/bootstrap3/locale/id_ID/locale.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings
+  -->
+
+<locale name="id_ID" full_name="Bahasa Indonesia">
+	<message key="plugins.themes.academic_free.name">Academic Free Theme ver. 1.1</message>
+	<message key="plugins.themes.academic_free.description">Academic Free Theme Premium </message>
+	<message key="plugins.themes.academic_free.accessible_menu.label">Lompat ke isi halaman</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_navigation">Navigasi Utama</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_content">Isi Utama</message>
+	<message key="plugins.themes.academic_free.accessible_menu.sidebar">Bilah Samping</message>
+	<message key="plugins.themes.academic_free.article.sidebar">Bilah Samping Artikel</message>
+	<message key="plugins.themes.academic_free.article.main">Isi Artikel Utama</message>
+	<message key="plugins.themes.academic_free.article.details">Rincian Artikel</message>
+	<message key="plugins.themes.academic_free.options.academicFree.label">Tema Bootstrap</message>
+	<message key="plugins.themes.academic_free.options.academicFree.description">Pilih satu dari beberapa tema Bootstrap berikut yang akan mengubah warna dan tipografi situs Anda.</message>
+	<message key="plugins.themes.academic_free.options.academicFree.bootstrap3">Tema Bootstrap Default</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cerulean">Cerulean</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cleanblog">Clean Blog</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cosmo">Cosmo</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cyborg">Cyborg</message>
+	<message key="plugins.themes.academic_free.options.academicFree.darkly">Darkly</message>
+	<message key="plugins.themes.academic_free.options.academicFree.flatly">Flatly</message>
+	<message key="plugins.themes.academic_free.options.academicFree.journal">Journal</message>
+	<message key="plugins.themes.academic_free.options.academicFree.lumen">Lumen</message>
+	<message key="plugins.themes.academic_free.options.academicFree.paper">Paper</message>
+	<message key="plugins.themes.academic_free.options.academicFree.readable">Readable</message>
+	<message key="plugins.themes.academic_free.options.academicFree.sandstone">Sandstone</message>
+	<message key="plugins.themes.academic_free.options.academicFree.simplex">Simplex</message>
+	<message key="plugins.themes.academic_free.options.academicFree.slate">Slate</message>
+	<message key="plugins.themes.academic_free.options.academicFree.spacelab">Spacelab</message>
+	<message key="plugins.themes.academic_free.options.academicFree.superhero">Superhero</message>
+	<message key="plugins.themes.academic_free.options.academicFree.united">United</message>
+	<message key="plugins.themes.academic_free.options.academicFree.yeti">Yeti</message>
+
+		<message key="plugins.themes.academic_free.headerTheme.name">Site Header Theme</message>
+	<message key="plugins.themes.academic_free.headerTheme.description">Site Header Design Option</message>
+	<message key="plugins.themes.academic_free.headerTheme.red">Red Modern <span style="color: red">(Premium Theme Only)</span></message>
+	<message key="plugins.themes.academic_free.headerTheme.edu">Education-Teaching (Premium Theme Only)</message>
+	<message key="plugins.themes.academic_free.headerTheme.dots">Multiple Essentric Dot (Premium Theme Only)</message>
+	<message key="plugins.themes.academic_free.headerTheme.diamond">Diamond Shine (Premium Theme Only)</message>
+	<message key="plugins.themes.academic_free.headerTheme.blue">Blue Sky</message>
+	
+</locale>

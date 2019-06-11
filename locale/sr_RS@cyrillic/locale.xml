@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/themes/bootstrap3/locale/sr_RS@cyrillic/locale.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  * Localization information: https://pkp.sfu.ca/wiki/index.php?title=OJS:_Serbian_(sr_RS)
+  * Localization strings for the sr_RS@cyrillic (Српски) locale.
+
+  -->
+
+<locale name="sr_RS@cyrillic" full_name="Српски">
+	<message key="plugins.themes.academic_free.name">Бутстрап 3 основна темаver. 1.1</message>
+	<message key="plugins.themes.academic_free.description">Почетна Бутстрап тема за читаоце.</message>
+	<message key="plugins.themes.academic_free.accessible_menu.label">Скочи на страну са садржајем</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_navigation">Главна навигација</message>
+	<message key="plugins.themes.academic_free.accessible_menu.main_content">Главни садржај</message>
+	<message key="plugins.themes.academic_free.accessible_menu.sidebar">Бочна страна</message>
+	<message key="plugins.themes.academic_free.article.sidebar">Бочна страна чланка</message>
+	<message key="plugins.themes.academic_free.article.main">Главни садржај чланка</message>
+	<message key="plugins.themes.academic_free.article.details">Детаљи чланка</message>
+	<message key="plugins.themes.academic_free.options.academicFree.label">Бутстрап тема</message>
+	<message key="plugins.themes.academic_free.options.academicFree.description">Одаберите једну од ових Бутстрап тема отвореног кода које мењају боје и типографију вашег сајта.</message>
+	<message key="plugins.themes.academic_free.options.academicFree.bootstrap3">Претпостављена Бутстрап тема</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cerulean">Cerulean</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cleanblog">Clean Blog</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cosmo">Cosmo</message>
+	<message key="plugins.themes.academic_free.options.academicFree.cyborg">Cyborg</message>
+	<message key="plugins.themes.academic_free.options.academicFree.darkly">Darkly</message>
+	<message key="plugins.themes.academic_free.options.academicFree.flatly">Flatly</message>
+	<message key="plugins.themes.academic_free.options.academicFree.journal">Journal</message>
+	<message key="plugins.themes.academic_free.options.academicFree.lumen">Lumen</message>
+	<message key="plugins.themes.academic_free.options.academicFree.paper">Paper</message>
+	<message key="plugins.themes.academic_free.options.academicFree.readable">Readable</message>
+	<message key="plugins.themes.academic_free.options.academicFree.sandstone">Sandstone</message>
+	<message key="plugins.themes.academic_free.options.academicFree.simplex">Simplex</message>
+	<message key="plugins.themes.academic_free.options.academicFree.slate">Slate</message>
+	<message key="plugins.themes.academic_free.options.academicFree.spacelab">Spacelab</message>
+	<message key="plugins.themes.academic_free.options.academicFree.superhero">Superhero</message>
+	<message key="plugins.themes.academic_free.options.academicFree.united">United</message>
+	<message key="plugins.themes.academic_free.options.academicFree.yeti">Yeti</message>
+</locale>
